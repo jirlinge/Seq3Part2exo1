@@ -12,7 +12,7 @@ namespace ConsoleApp1
 
             if (rainy == true)
             {
-                Console.WriteLine("Bonjour il ne pleut pas aujourd'hui bonne journée");
+                Console.WriteLine("Bonjour il ne pleut pas aujourd'hui bonne journée et couvrez vous");
             }
 
             else
